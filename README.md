@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_200px.gif)]
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblhWZWFrWjRMQ24zaWVlS0stNEhka2lRbVJKZ3xBQ3Jtc0tsNFRGbUg0RFM5TFI3NzZ1WmswNnptbUlOeWNweTdnR05kWEdnbjdkZUhHeEhGX2E4U3piaVp4c2xpNmt3MGZNNVBMSEM3M0tYeHI3R2xib05pbVZuRmJZYmFfSVhtMExpZ0dkN2Z5SEp0Z21XRUM2NA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Aman Dadhwal</h1>
 <h3 align="center">A passionate Software developer/Android developer from India</h3>
@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amandadhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amandadhwal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@alltrixcu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@alltrixcu01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/amandadhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amandadhwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/amandadhwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amandadhwal/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amandadhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amandadhwal" height="30" width="40" /></a>
+<a href="https://youtube.com/@alltrixcu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@alltrixcu01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/amandadhwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amandadhwal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/amandadhwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amandadhwal/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/amandadhwal911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/amandadhwal911/" height="30" width="40" /></a>
 </p>
 
