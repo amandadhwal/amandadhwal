@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/imgres?q=software%20developer%20images&imgurl=https%3A%2F%2Fwww.betterteam.com%2Fimages%2Fsoftware-developer-job-description-3599x2401-2020128.jpeg%3Fcrop%3D40%3A21%2Csmart%26width%3D1200%26dpr%3D2%26format%3Dpjpg%26auto%3Dwebp%26quality%3D85&imgrefurl=https%3A%2F%2Fwww.betterteam.com%2Fsoftware-developer-job-description&docid=NnlBJjowlnnaFM&tbnid=8Q04eUxfHeeZzM&vet=12ahUKEwji-rKVgqWKAxWrSmwGHS02C2s4ChAzegQIXRAA..i&w=2400&h=1260&hcb=2&ved=2ahUKEwji-rKVgqWKAxWrSmwGHS02C2s4ChAzegQIXRAA)]
 
 <h1 align="center">Hi 👋, I'm Aman Dadhwal</h1>
 <h3 align="center">A passionate Software developer/Android developer from India</h3>
