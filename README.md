@@ -1,5 +1,5 @@
-https://www.google.com/imgres?q=software%20developer%20images&imgurl=https%3A%2F%2Fd1m75rqqgidzqn.cloudfront.net%2Fwp-data%2F2022%2F03%2F16180754%2Fsoftware-engineer-job-skills-1.jpg&imgrefurl=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Ftop-3-important-job-skills-for-software-engineers%2F&docid=sPz5NlL1gPyawM&tbnid=Vi6yr447h3zsxM&vet=12ahUKEwji-rKVgqWKAxWrSmwGHS02C2s4ChAzegQIYRAA..i&w=1365&h=768&hcb=2&ved=2ahUKEwji-rKVgqWKAxWrSmwGHS02C2s4ChAzegQIYRAA
-[![MasterHead](https://www.google.com/imgres?q=software%20developer%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fsoftware-developer-character-vector-programmer-develops-code-illustration-programming-soft-write-script-153201964.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fsoftware-developer-character.html&docid=xVMGkjU_JdTSKM&tbnid=e8e6vReboZZ2dM&vet=12ahUKEwjxtdXUgaWKAxXhe2wGHRv8OK8QM3oECHkQAA..i&w=1600&h=640&hcb=2&ved=2ahUKEwjxtdXUgaWKAxXhe2wGHRv8OK8QM3oECHkQAA)]
+
+[![MasterHead](https://www.google.com/imgres?q=software%20developer%20images&imgurl=https%3A%2F%2Fd1m75rqqgidzqn.cloudfront.net%2Fwp-data%2F2022%2F03%2F16180754%2Fsoftware-engineer-job-skills-1.jpg&imgrefurl=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Ftop-3-important-job-skills-for-software-engineers%2F&docid=sPz5NlL1gPyawM&tbnid=Vi6yr447h3zsxM&vet=12ahUKEwji-rKVgqWKAxWrSmwGHS02C2s4ChAzegQIYRAA..i&w=1365&h=768&hcb=2&ved=2ahUKEwji-rKVgqWKAxWrSmwGHS02C2s4ChAzegQIYRAA)]
 
 <h1 align="center">Hi 👋, I'm Aman Dadhwal</h1>
 <h3 align="center">A passionate Software developer/Android developer from India</h3>
