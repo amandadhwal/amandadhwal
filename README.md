@@ -4,7 +4,7 @@
 
 
 - 🌱 Currently I am working on **Reactjs,Nodejs,Java,MongoDB**
-- 
+   
 - 📝 I write articles on [www.linkedin.com/in/amandadhwal](www.linkedin.com/in/amandadhwal)
 
 - 📫 How to reach me **amandadhwal911@gmail.com**
